@@ -13,7 +13,7 @@ SerenitySphere
 Improving and maintaining our mental well-being is an essential aspect of our daily existence. As the number of students or adults facing mental health issues grow more prevalant, substantial efforts have been taken to enhance the accessibility of such crucial resources. This notably extends to the digital realm, where developers and governments have been making these resources available online; enabling individuals to seek mental health assistance on the web. Whether through virtual sessions with therapists, counseling services, or readily accessible written materials, this approach offers a valuable outlet for those seeking support whilst removing the necessity to be physically present at a specific location.
 
 ## Objective
-This project aims to alleviate the common stresses of finding mental health assistance phsycally. Thus, the 'SerenitySphere' web application seeks to provide users with the necessary resources such as to contact, get educated on relevant topics and ultimately find a therapist in one of our mental health centres. With this, users and individuals can use SerenitySphere as their go-to web application to assist them during their mental health journey. 
+This project aims to ease the user's journey in finding help for their mental health. Thus, the 'SerenitySphere' web application seeks to provide users with the necessary resources such as to contact, get educated on relevant topics and ultimately locate available therapists around the area. With this, users can use SerenitySphere as their go-to web application to assist them in the important aspects of their mental health. 
 
 ## Features and Functionalities
 [List the features and functionalities of the proposed web application.]
