@@ -19,26 +19,26 @@ This project aims to ease the user's journey in finding help for their mental he
 
 ## Features and Functionalities
 **1. Home**
-•	This serves as the starting point, offering an overview or welcome page for users to access various sections of the website.
+•	This serves as the starting point, offering an overview or welcome page for users to access various sections of the website. It also includes sign up page where users can register to be one of the website's members.
 
 **2. Get Help**
 • The "Get Help" section serves as a comprehensive resource centre that offers an extensive collection of self-help articles, a dictionary of psychological terms, and educational materials. It provides users more control by educating them about various mental health issues, their symptoms, and useful coping mechanisms. 
 
 **3. Find a Therapist**
-•	Online Session: Provides access to a carefully selected panel of therapists offering online consultations. It provides these specialists full profiles that highlight their areas of expertise, availability for online consultations, and scope of practice.
+•	Online Session: Provides access to a carefully selected panel of therapists offering online consultations. It provides these specialists full profiles that highlight their areas of expertise, availability for online consultations, and scope of practice. It also provides booking system for online session.
 •	Physical Session: Displays local therapists who are accessible for in-person sessions. It provides thorough biographies of these professionals, together with information on their offices, specialisations, and methods for simple appointment booking. In addition, users have the option to search their location and the website will display nearby therapists. This feature promotes accessibility to mental health services in the user's local region by making it simple for them to locate and get in touch with therapists nearby.
 
 **4. About Us**
-•	SerenitySphere's "About Us" section provides an in-depth review of the platform, outlining its fundamental values, objectives, and vision to improve mental health. It gives a detailed summary of the business's mental health initiatives and emphasises its commitment to create a welcoming, safe, and friendly space for people in need of care.
+•	SerenitySphere's "About Us" section provides an in-depth review of the platform, outlining its fundamental values, objectives, and vision to improve mental health. It gives a detailed summary of the business's mental health initiatives and emphasises its commitment to create a welcoming, safe, and friendly space for people in need of care. It also lets specialists to register as therapists.
 
 **5. Feedback**
 •	Users can submit their experiences, recommendations, and complaints about SerenitySphere's services in the "Feedback" area. It promotes a community-driven, participatory approach to platform improvement, creating an environment where user input directly influences continuous improvements. 
 
 **6. FAQ**
-• SerenitySphere's "FAQ" section serves as a knowledge base for frequent questions and issues users may have regarding its features, services, and mental health resources. It offers responses that are thorough, clear, and concise, giving users the knowledge they need to use the platform efficiently. 
+• SerenitySphere's "FAQ" section serves as a knowledge base for frequent questions and issues users may have regarding its features, services, and mental health resources. It offers responses that are thorough, clear, and concise, giving users the knowledge they need to use the platform efficiently. It also provides inquiry form for those who want to ask more specific questions.
 
 **7. Contact Us**
-•	Users can get in touch with SerenitySphere directly through the "Contact Us" area. It provides several ways to get in touch, such as an email address, helpline number, and an easy-to-use "Contact Form." By enabling users to send specific questions, comments, or requests for further information, this form guarantees effective and customized contact between the platform and its users.
+•	Users can get in touch with SerenitySphere directly through the "Contact Us" area. It provides several ways to get in touch, such as an email address, and helpline number. 
 
 ## Database ERD
 [Include the Entity-Relationship Diagram for your database tables.]
